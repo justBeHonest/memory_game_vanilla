@@ -1,16 +1,39 @@
-# memory_game_vanilla
+# 🧠 Memory Game - Vanilla Flutter (setState)
 
-A new Flutter project.
+A simple **memory game** built with **Flutter** using only the `setState` method for state management. This project serves as a baseline for exploring and comparing various state management techniques in Flutter.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🎯 Project Goals
 
-A few resources to get you started if this is your first Flutter project:
+1. **Learn by Doing**: Build a basic memory game to practice core Flutter concepts.
+2. **Explore State Management**: Use this project as a reference point for comparing different state management techniques like:
+   - **Provider**
+   - **MobX**
+   - **Riverpod**
+   - **Bloc**
+   - **Cubit**
+3. **Community Sharing**: Share each version on GitHub and LinkedIn to discuss the pros and cons of each approach.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+_(Add your app's screenshots here if available)_
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to clone and run the project locally.
+
+### Prerequisites
+- Flutter installed on your machine.  
+  Check installation guide: [Flutter Docs](https://flutter.dev/docs/get-started/install)
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/justBeHonest/memory_game_vanilla.git
+   cd memory_game_vanilla
+   flutter pub get
+   flutter run

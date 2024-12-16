@@ -18,9 +18,11 @@ A simple **memory game** built with **Flutter** using only the `setState` method
 ---
 
 ## 📸 Screenshots
-_(Add your app's screenshots here if available)_
 
----
+![Screenshot_20241216-054558](https://github.com/user-attachments/assets/75b69a7e-f52a-4987-b9b7-f3502543710c)
+
+![Screenshot_20241216-054657](https://github.com/user-attachments/assets/c0c1f609-1b8e-4c3b-80b4-6618c7507ace)
+
 
 ## 🚀 Getting Started
 
